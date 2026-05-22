@@ -4,13 +4,13 @@ Programación Web · Ingeniería de Sistemas · UDES 2026
 
 ---
 
-## 📌 URL en Railway
+##  URL en Railway
 
 > **https://garcia-post1-u12.up.railway.app**
 
 ---
 
-## 🗂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 garcia-post1-u12/
@@ -35,7 +35,7 @@ garcia-post1-u12/
 
 ---
 
-## 🔧 Variables de entorno requeridas
+##  Variables de entorno requeridas
 
 | Variable | Descripción | Ejemplo |
 |---|---|---|
@@ -46,7 +46,7 @@ garcia-post1-u12/
 
 ---
 
-## 🐳 Construir y ejecutar localmente con Docker
+##  Construir y ejecutar localmente con Docker
 
 ### 1. Construir la imagen Docker
 
@@ -106,7 +106,7 @@ docker compose down
 
 ---
 
-## ☁️ Despliegue en Railway
+## Despliegue en Railway
 
 ### Pasos realizados
 
@@ -143,7 +143,7 @@ curl -X POST https://garcia-post1-u12.up.railway.app/api/productos \
 
 ---
 
-## 📋 Endpoints REST disponibles
+##  Endpoints REST disponibles
 
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|
@@ -154,16 +154,6 @@ curl -X POST https://garcia-post1-u12.up.railway.app/api/productos \
 | `DELETE` | `/api/productos/{id}` | Eliminar producto |
 | `GET` | `/actuator/health` | Estado de la aplicación y BD |
 
----
 
-## 📝 Historial de commits
-
-```
-commit 1: feat: add Dockerfile multi-stage and .dockerignore
-commit 2: feat: add Spring profiles, docker-compose.yml and PostgreSQL config
-commit 3: feat: configure Railway environment variables and public domain
-```
-
----
 
 *Universidad de Santander (UDES) · Programación Web 2026*
