@@ -6,7 +6,7 @@ Programación Web · Ingeniería de Sistemas · UDES 2026
 
 ##  URL en Railway
 
-> **https://garcia-post1-u12.up.railway.app**
+> **https://jaimes-post1-u12.up.railway.app**
 
 ---
 
