@@ -13,7 +13,7 @@ Programación Web · Ingeniería de Sistemas · UDES 2026
 ##  Estructura del proyecto
 
 ```
-garcia-post1-u12/
+jaimes-post1-u12/
 ├── Dockerfile                          # Multi-stage: JDK builder + JRE producción
 ├── .dockerignore
 ├── docker-compose.yml                  # Orquestación local: app + PostgreSQL
